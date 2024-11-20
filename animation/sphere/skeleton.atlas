@@ -1,0 +1,6 @@
+skeleton.png
+size:745,745
+filter:Linear,Linear
+pma:true
+sphere
+bounds:2,2,741,741
