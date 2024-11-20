@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "short_name": "",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/static/img/favicon/Favicon_180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/favicon/Favicon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/favicon/Favicon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/img/favicon/Favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+}
